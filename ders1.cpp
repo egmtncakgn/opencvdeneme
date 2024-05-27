@@ -8,7 +8,9 @@
 using namespace std;
 using namespace cv;
 
-// Main metodunun kodlarýmýzý görmesini saðlýyoruz
+// Main metodunun kodlarýmýzý görmesini saðlýyoruz normalde
+// header dosyasý ile yapmamýz lazým henüz header dosyasý yazmayý 
+// bilmiyorum
 static void VideoOkuma();
 static void ResimOkuma();
 static void WebCamOkuma();
